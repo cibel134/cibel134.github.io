@@ -16,4 +16,16 @@ img{
 	margin-left: auto;
 	margin-right: auto;
 }
+
+ahover{
+	color:aquamarine
+}
+
+a:visited{
+	color:blueviolet;
+}
+
+
+
+
 		
